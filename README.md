@@ -21,4 +21,4 @@ Elzero CSS Templete 3
 - **Youssef Kamal**
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-kamal-1-front-end-dev)
 - [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/youssef-kamal)
-- 📧 Email: youssefkamal24@gmail.com
+- 📧 Email: yousofkamal24@gmail.com
