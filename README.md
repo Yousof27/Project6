@@ -1,6 +1,6 @@
-# 🚀 Project 6
+# 🚀 Project 6 - Elzero Template 3
 
-Elzero CSS Templete 3
+Practiced advanced layout techniques and UI effects by rebuilding Elzero Template 3 using HTML5 and CSS3. Focused on mastering Flexbox, 2D transforms, and CSS animations to create responsive and interactive designs with clean, structured code.
 
 <br/>
 
