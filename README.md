@@ -20,5 +20,5 @@ Practiced advanced layout techniques and UI effects by rebuilding Elzero Templat
 
 - **Youssef Kamal**
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-kamal-1-front-end-dev)
-- [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/youssef-kamal)
+- [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/Yousof27)
 - 📧 Email: yousofkamal24@gmail.com
